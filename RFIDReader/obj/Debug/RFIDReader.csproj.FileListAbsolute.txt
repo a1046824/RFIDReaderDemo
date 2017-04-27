@@ -1,0 +1,9 @@
+C:\Work\RFIDReader\RFIDReader\bin\Debug\RFIDReader.exe.config
+C:\Work\RFIDReader\RFIDReader\bin\Debug\RFIDReader.exe
+C:\Work\RFIDReader\RFIDReader\bin\Debug\RFIDReader.pdb
+C:\Work\RFIDReader\RFIDReader\obj\Debug\RFIDReader.Form1.resources
+C:\Work\RFIDReader\RFIDReader\obj\Debug\RFIDReader.Properties.Resources.resources
+C:\Work\RFIDReader\RFIDReader\obj\Debug\RFIDReader.csproj.GenerateResource.Cache
+C:\Work\RFIDReader\RFIDReader\obj\Debug\RFIDReader.exe
+C:\Work\RFIDReader\RFIDReader\obj\Debug\RFIDReader.pdb
+C:\Work\RFIDReader\RFIDReader\obj\Debug\RFIDReader.csprojResolveAssemblyReference.cache
